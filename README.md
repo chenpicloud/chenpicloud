@@ -1,4 +1,4 @@
-Hi, I'm SENNIER! 👋
+Hi, I'm ChenPi! 👋
 
 I am motivating to be a full stack developer. Currently exploring web technologies and contributing to open source.
 
