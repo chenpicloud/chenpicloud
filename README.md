@@ -30,7 +30,7 @@ Here's my current Tech Stack:
     srcset="https://github-readme-stats.vercel.app/api?username=cxumhe&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=cxumhe&show_icons=true" align=center />
+  <img src="https://github-readme-stats.vercel.app/api?username=chenpicloud&show_icons=true" align=center />
 </picture>
 
 You can find me in:
